@@ -1,0 +1,27 @@
+/* Estilos generales para el cuerpo de la página */
+body {
+    background-color: black;
+    color: white;
+    font-family: Helvetica, sans-serif;
+}
+
+/* Centrando el header */
+header {
+    text-align: center;
+}
+
+/* Estilo cursivo para h3 */
+h3 {
+    font-style: italic;
+}
+
+/* Estilos para la sección */
+section {
+    font-size: 12pt;
+    text-align: justify;
+}
+
+/* Centrando el footer */
+footer {
+    text-align: center;
+}
